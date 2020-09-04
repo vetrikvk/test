@@ -1,0 +1,100 @@
+
+
+
+.homeForm{
+    display: inline-block;
+    margin-top: 6vh;
+    margin-left: 2vw;
+    
+    
+ }
+ 
+ 
+ 
+   .homeform-wrapper {
+     display: flex;
+     flex-direction: column;        
+     width: 20vw !important;    
+     padding:3.65vh 3.65vh;
+     margin-top: 3vh;
+     border-radius: 6px;    
+     background-color: #fefefe;
+
+     
+   }
+   
+   .homeinputbox{
+       font-size: 1vw;
+    padding: 1.5vh 1.5vh;
+    border-radius: 0.76vh;
+    outline: none;
+    border: 1px solid #d6d1d5;
+    margin-bottom: 3vh;
+   }
+
+   .homebutton{
+    font-size: 1vw;
+ padding: 1.5vh 1.5vh;
+ border-radius: 0.76vh;
+ outline: none;
+ background: #FF854D;
+ color: white;
+ border: 1px solid #d6d1d5;
+ 
+}
+ 
+   .homeformtxt{
+       margin-bottom: -1vh;
+       font-size: 2vw;
+       text-align: center;
+      
+   }
+   .homeFormtxt1{
+    margin-bottom: 3vh;
+    font-size: 2vw;
+    text-align: center;
+   }
+ 
+   
+   
+   
+   
+   .Hometxtbox{
+     margin-right: 1%;  
+     display: flex;
+     flex-direction: column;
+     margin-bottom: 5vh;
+   
+     width: 20vw;
+   }
+   .homeimg{
+       height: 8vh;
+       width: 4vw;
+   }
+   .homeimg1{
+    height: 9vh;
+       width: 4vw;
+}
+.homeimg2{
+    height: 7vh;
+    width: 3vw;
+}  
+.Homecontent{
+    margin-top: 12vh;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.HomeContenthead{
+    font-weight: bold;
+    font-size: 3.1vw;
+    line-height: 1px
+}
+.homecontentlisthead{
+    font-size: 1.5vw;
+}
+.homesubcontent{
+    margin-top: -0.1vh;
+    font-size: 1vw;
+    line-height: 4vh;
+}
